@@ -1,5 +1,6 @@
 # AWS-Lambda-Project
 The goal of this project is to trigger a Lambda response from a txt file S3 upload; then using SNS to send an email to the subscribed email with the word count of the file.
+
 The Python code for the Lambda function is included in the files.
 
 See below for the link to the steps taken for this project: 
